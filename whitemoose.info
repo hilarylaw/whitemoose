@@ -1,0 +1,22 @@
+name = White Moose
+description = White moose is a Drupal 7 base theme that uses a mobile-first layout and modern css to maximize responsiveness. This theme is currently under development and not ready for production sites yet!
+core = 7.x
+engine = phptemplate
+stylesheets[all][] = css/style.css
+
+regions[header_top]     = Header Top
+regions[header]         = Header
+regions[header_bottom]  = Header Bottom
+regions[navigation]     = Navigation
+regions[content_top]    = Content Top
+regions[content]        = Content
+regions[content_bottom] = Content Bottom
+regions[sidepanel_left] = Left Swipe Side Panel
+regions[sidepanel_right]= Right Swipe Side Panel
+regions[sidebar_first]  = First Sidebar
+regions[sidebar_second] = Second Sidebar
+regions[footer_top]     = Footer Top
+regions[footer]         = Footer
+regions[footer_bottom]  = Footer Bottom
+
+
